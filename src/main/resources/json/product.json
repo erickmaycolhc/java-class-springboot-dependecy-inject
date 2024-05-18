@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Tv",
+    "price": 1000
+  },
+  {
+    "id": 2,
+    "name": "Microfono",
+    "price": 250
+  },
+  {
+    "id": 3,
+    "name": "Cable",
+    "price": 2500
+  }
+]
